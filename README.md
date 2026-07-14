@@ -1,6 +1,6 @@
 # Victor
 
-Building backend services, blockchain tools, and automation software.
+Building backend services, blockchain tools, and automation software
 
 ## What I work with
 - 🦀 Rust
